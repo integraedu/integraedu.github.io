@@ -3127,6 +3127,8 @@ fieldset[disabled] .btn {
   background-color: transparent;
   border-color: transparent;
 }
+
+
 .btn-default:hover,
 .btn-default:focus,
 .btn-default.focus,
@@ -3465,6 +3467,24 @@ fieldset[disabled] .btn-info.active {
   color: #27aae0;
   background-color: #ffffff;
 }
+
+.btn-warning-integra {
+  border-color: #f9a527;
+  color: #ffffff;
+  background-color: #b539e9;
+  border-color: #b539e9;
+}
+.btn-warning-integra:hover,
+.btn-warning-integra:focus,
+.btn-warning-integra.focus,
+.btn-warning-integra:active,
+.btn-warning-integra.active,
+.open > .dropdown-toggle.btn-warning-integra {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #000000;
+}
+
 .btn-warning {
   border-color: #f9a527;
   color: #ffffff;
